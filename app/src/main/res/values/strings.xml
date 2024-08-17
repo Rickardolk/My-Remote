@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My Remote</string>
+    <string name="accessibility_service_description">My Remote Accessibility Service</string>
+</resources>
